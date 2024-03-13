@@ -1,2 +1,2 @@
 # House-Price-Predcition
-Predicts the price of any house in Bangalore.
+In this project, we will develop and evaluate the performance and the predictive power of a model trained and tested on data collected from houses. This study utilizes machine learning algorithms as a research method. House price prediction can help determine the selling price of a house and can help to arrange the right time to purchase a house. There are various factors that influence the price of a house which include physical conditions, concept and location.
